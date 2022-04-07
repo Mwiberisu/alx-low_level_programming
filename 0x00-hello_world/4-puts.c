@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
-* main
+* main: uses puts to display
 * Description: Uses puts
 *
 *Return: 0 after printing

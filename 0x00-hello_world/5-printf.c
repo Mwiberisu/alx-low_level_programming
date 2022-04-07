@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /**
-* main
+* main: uses printf to display
 * Description: Uses printf
 *
 *Return: 0 after printing
