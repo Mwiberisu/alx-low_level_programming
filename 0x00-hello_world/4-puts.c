@@ -3,6 +3,8 @@
 /**
 * main
 * Description: Uses puts
+*
+*Return: 0 after printing 
 */
 
 int main(void)

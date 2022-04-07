@@ -3,6 +3,8 @@
 /**
 * main
 * Description: Uses printf
+*
+*Return: 0 after printing 
 */
 
 int main(void)
