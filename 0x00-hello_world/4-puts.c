@@ -1,10 +1,13 @@
 #include<stdio.h>
 
-/* Function that uses printf */
+/**
+* main
+* Description: Uses puts
+*/
 
 int main(void)
 {
-    puts("\"Programming is like building a multilingual puzzle");
+puts("\"Programming is like building a multilingual puzzle");
 
-    return (0);
+return (0);
 }

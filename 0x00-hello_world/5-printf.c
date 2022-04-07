@@ -1,6 +1,9 @@
 #include<stdio.h>
 
-/* Function that uses printf */
+/**
+* main
+* Description: Uses printf
+*/
 
 int main(void)
 {
