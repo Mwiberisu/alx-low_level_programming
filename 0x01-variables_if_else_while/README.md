@@ -7,3 +7,4 @@ Contains loop functions:
 6. 2-print_alphabet.c: prints alphabet in lowercase followed by new line
 7. 6-print_numberz.c: prints base 10 digits with putchar
 8. 7-print_tebahpla.c: prints alphabet in reverse
+9. 8-print_base16.c: prints base 16 numbers
