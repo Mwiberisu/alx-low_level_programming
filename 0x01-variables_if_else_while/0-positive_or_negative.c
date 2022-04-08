@@ -4,6 +4,11 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
+/**
+ * main - entrypoint
+ * @n: stores a number
+* Description: Checks if n is postive, negative or zero
+ */
 int main(void)
 {
 	int n;
@@ -21,7 +26,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d is positive", n);
+		printf("%d is positive\n", n);
 	}
 	return (0);
 }
