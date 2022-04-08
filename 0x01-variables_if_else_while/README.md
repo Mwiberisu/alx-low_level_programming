@@ -4,3 +4,4 @@ Contains loop functions:
 3. 3-print_alphabets.c: prints the aphabet using putchar
 4. 4-print_alphabt.c:  prints the alphabet in lowercase, followed by a new line.
 5. 5-print_numbers.c: Prints base 10 digits
+6. 2-print_alphabet.c: prints alphabet in lowercase followed by new line
