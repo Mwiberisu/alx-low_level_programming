@@ -8,3 +8,4 @@ Contains loop functions:
 7. 6-print_numberz.c: prints base 10 digits with putchar
 8. 7-print_tebahpla.c: prints alphabet in reverse
 9. 8-print_base16.c: prints base 16 numbers
+10.9-print_comb.c:  prints all possible combinations of single-digit numbers.
