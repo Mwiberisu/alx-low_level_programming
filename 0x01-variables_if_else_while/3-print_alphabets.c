@@ -17,7 +17,7 @@ int main(void)
      	}
     	for(b = 0; b < strlen(upperCase); b++)
     	{
-        	putchar(upperCase[a]);
+        	putchar(upperCase[b]);
     	}
     	putchar('\n');
 	return (0);
