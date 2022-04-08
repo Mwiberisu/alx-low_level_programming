@@ -7,7 +7,8 @@
 /**
  * main - entrypoint
  * @n: stores a number
-* Description: Checks if n is postive, negative or zero
+ *Description: Checks if n is postive, negative or zero
+ *Return: 0 after printing
  */
 int main(void)
 {
