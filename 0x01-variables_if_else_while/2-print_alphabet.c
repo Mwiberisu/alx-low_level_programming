@@ -8,12 +8,12 @@
 int main(void)
 {
 	char lowerCase[] = "abcdefghijklmnopqrstuvwxyz";
-      	unsigned int a;
+	unsigned int a;
 
-	for(a = 0; a < strlen(lowerCase); a++)
-    	{
-        	putchar(lowerCase[a]);
-     	}	
+	for (a = 0; a < strlen(lowerCase); a++)
+	{
+		putchar(lowerCase[a]);
+	}
 	putchar('\n');
 	return (0);
 }
