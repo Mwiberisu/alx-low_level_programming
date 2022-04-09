@@ -8,11 +8,12 @@
 int main(void)
 {
 	char lowerCase[] = "abcdefghijklmnopqrstuvwxyz";
-      	unsigned int a;
-	for (a = strlen(lowerCase) - 1; a > 0; a--)
-    	{
-        	putchar(lowerCase[a]);
-     	}	
-	putchar('a');
+	int a;
+
+	for (a = (int)strlen(lowerCase) - 1; a >= 0; a--)
+	{
+		putchar(lowerCase[a]);
+	}
+	putchar('\n');
 	return (0);
 }
