@@ -6,7 +6,7 @@
 /* betty style doc for function main goes there */
 /**
  * main - entrypoint
- *Description: Gets the last digit, Checks if digit is postive, negative or zero
+ *Description: Gets the last digit, Checks if digit is postive, negative or 0
  *Return: 0 after printing
  */
 int main(void)
@@ -27,7 +27,7 @@ int main(void)
 		printf("Last digit of %d is %d and is 0\n", n, lastDigit);	}
 	else
 	{
-		printf("Last digit of %d is %d and is less than 6 and not 0\n", n, lastDigit);
+		printf("Last digit of %d is %d and is less than 6 and not 0\n",n,lastDigit);
 	}
 	return (0);
 }
