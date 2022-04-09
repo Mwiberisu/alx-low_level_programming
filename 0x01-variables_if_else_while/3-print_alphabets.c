@@ -11,6 +11,7 @@ int main(void)
 	char upperCase[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	unsigned int a;
 	unsigned int b;
+
 	for (a = 0; a < strlen(lowerCase); a++)
 	{
 		putchar(lowerCase[a]);
