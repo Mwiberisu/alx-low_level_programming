@@ -8,17 +8,17 @@
 int main(void)
 {
 	char lowerCase[] = "abcdefghijklmnopqrstuvwxyz";
-      	char upperCase[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+	char upperCase[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	unsigned int a;
 	unsigned int b;
-    	for(a = 0; a < strlen(lowerCase); a++)
-    	{
-        	putchar(lowerCase[a]);
-     	}
-    	for(b = 0; b < strlen(upperCase); b++)
-    	{
-        	putchar(upperCase[b]);
-    	}
-    	putchar('\n');
+	for (a = 0; a < strlen(lowerCase); a++)
+	{
+		putchar(lowerCase[a]);
+	}
+	for (b = 0; b < strlen(upperCase); b++)
+	{
+		putchar(upperCase[b]);
+	}
+	putchar('\n');
 	return (0);
 }
